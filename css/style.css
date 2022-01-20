@@ -106,3 +106,8 @@ ul {
     background: #5e77b3;
     position: relative;
 }
+
+img {
+    width: 10px;
+    height: 10px;
+}
